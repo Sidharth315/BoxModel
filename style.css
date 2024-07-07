@@ -1,0 +1,88 @@
+h1{
+    text-align: center;
+    color:aliceblue;
+    background-color: blueviolet;
+
+}
+
+h2{
+    color:lightseagreen
+}
+
+li a{
+    text-decoration:none;
+    font-size: 19px;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+/* indian*/
+
+.flag{
+    height:200px;
+    width:300px;
+    
+}
+
+#orange{
+    height:66px;
+    width:100%;
+    background-color: orange;
+}
+
+#white{
+    height:66px;
+    width:100%;
+    background-color: white;
+}
+#green{
+    height:66px;
+    width:100%;
+    background-color: green;
+}
+
+/* romania */
+
+
+
+#blue{
+    height:100px;
+    width:100px;
+    background-color: blue;
+    
+}
+#yellow{
+    height:102px;
+    width:200px;
+    background-color: yellow;
+    position:absolute;
+    top:7px;
+    left:108px
+   
+    
+}
+#red{
+    height:100px;
+    width:100px;
+    background-color: red;
+    position:absolute;
+    top:7px;
+    left:300px;
+    
+}
+
+/* ballon */
+.balloon{
+    height:400px;
+    width:300px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2049EujtjRqApa-fBIODHnms_-LadX4fVPw&s");
+    background-size: cover;
+    
+    border: 6px solid red;
+    border-style: dashed;
+    position:absolute;
+    left:89px;
+    top:59px;
+}
